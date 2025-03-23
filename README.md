@@ -178,7 +178,7 @@ Operaciones típicas de una cola:
 - **Dequeue** : **elimina** y devuelve el elemento **del frente** de la cola
 - **Front o Peek** : devuelve el elemento **del frente** de la cola sin eliminarlo
 
-Viualización
+Visualización
 ```
 A B C D E F G H I
 
